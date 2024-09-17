@@ -20,3 +20,9 @@ This project is a clone of the Netflix UI, developed to practice frontend and ba
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/netflix-clone.git
+2. Install Dependencies
+   npm install
+
+3. Rn the projects
+   npm start
+   
